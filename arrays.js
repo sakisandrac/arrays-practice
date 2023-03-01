@@ -12,6 +12,7 @@ ages.push(9)
 isTall.unshift(false)
 
 var cars = ['Toyota', 'Tesla', 'Honda', 'Mini', 'BMW']
-//this will use the method slice to change the array from index 1 up to index 3
+//this will use the method slice to change the array from index 1 up to index 3. I then saved the new array into a variable called newCars so we can see the new array
 //the array will now be 'Tesla', 'Honda', 'Mini'
-cars.slice(1, 4)
+var newCars = cars.slice(1, 4)
+console.log(newCars)
