@@ -1,0 +1,3 @@
+1. I feel confident about arrays, I think I understand what they are and how to store elements in them but I am not as confident when it comes to methods. I feel confident with push/pop, shift/unshift but when I was researching it seemed like there were so many methods you can use on arrays and it felt overwhelming.
+2. I would like to know what the advantages of storing elements in array are. I think it would help me better understand why we need them.
+3. Some questions I have are: can you mix different data types in an array? For example, a string, number and boolean in one array? Can you have an array within an array?
